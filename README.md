@@ -1,3 +1,3 @@
-# Kr1-Portfolio-file
 
-img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+
+<img src="https://github.com/kr1shnavishwakarma/Kr1-Portfolio-file/blob/8abfa574a7057a20c80104f8d455f8ef8f5974b9/Screenshot_2026-07-03-11-25-54-07.jpg" >
